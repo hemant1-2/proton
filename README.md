@@ -4,7 +4,9 @@
 - JDK 21 
 - Maven 3.9 
 - MySQL 8 
-
+There are some of thr issue
+idefentified and we have to do a 
+emergency release.
 # Technologies 
 - JAKARTA
 - Spring MVC
